@@ -1,0 +1,7 @@
+Height of an Element:
+margin-top + border-top + padding-top + (height of content) + margin-bottom + border-bottom + padding-bottom
+20         + 2          + 10          + 125                 + 20            + 2             + 10            = 189px
+
+Width of an Element:
+margin-left + border-left + padding-left + (width of content) + margin-right + border-right + padding-right
+20          + 2           + 10           + 400                + 20           + 2            + 10           = 464px
